@@ -1,0 +1,22 @@
+img{
+    height: 100px;
+    width: 80px;
+    float: left;
+}
+
+.checkbox{
+    float: left;
+    color: aliceblue;
+}
+.forgot{
+    float: right;
+    color: aliceblue;
+}
+.form-check{
+    padding: 1em;
+}
+#saml{
+    color: aliceblue;
+    float: left;
+    margin-bottom: 8px;
+}
